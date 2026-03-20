@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">I'm an undergraduate student at the Indian Institute of Technology (IIT) Bombay. I'm passionate about building intelligent systems that solve real-world problems using AI/ML, NLP, and recommender systems.<br><br>Currently, I'm:<br><br>- 🤖 Working on a GitHub classifier project that would be able to classify the issues raised in repositories into different categories and urgency, etc.<br>- 🎧 Built a full-stack project like PersonalAIs — a Spotify-powered music recommender based on mood, emotion, and audio semantics, and create a playlist of the recommended songs in your Spotify account.<br>- 📊 Part of the Data Analysis and Visualization (DAV) team, where I build tools and dashboards to make sense of complex institutional data<br>- 🧠 Exploring LLMs, RAG pipelines, and embedding-based search</p>
+<p align="left">I'm an undergraduate student at the Indian Institute of Technology (IIT) Bombay. I'm passionate about building intelligent systems that solve real-world problems using AI/ML, NLP, and recommender systems.<br><br>Currently, I'm:<br><br>- Working on a GitHub classifier project that would be able to classify the issues raised in repositories into different categories and urgency, etc.<br>-  Built a full-stack project like PersonalAIs — a Spotify-powered music recommender based on mood, emotion, and audio semantics, and create a playlist of the recommended songs in your Spotify account.<br>-  Part of the Data Analysis and Visualization (DAV) team, where I build tools and dashboards to make sense of complex institutional data<br>-  Exploring LLMs, RAG pipelines, and embedding-based search</p>
 
 ###
 
