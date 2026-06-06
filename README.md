@@ -27,17 +27,37 @@
 ###
 
 <p align="left">
-I'm a final year engineering student at IIT Bombay, building toward a career in ML Engineering. I'm passionate about building intelligent systems that solve real-world problems — currently focused on LLMs, NLP, and production ML pipelines.<br><br>
+Final year engineering student at IIT Bombay. Passionate about building intelligent systems using ML, NLP, and LLMs. Currently interning as an ML Engineer and working toward a career in ML Engineering.<br><br>
 
-Currently, I'm:<br><br>
+🚀 Currently: <strong>Machine Learning Engineer Intern @ Inviz</strong>
+</p>
 
-- 🚀 ML Engineer Intern at <strong>Inviz</strong> — building real ML systems at an early-stage AI company<br>
-- 🤖 Building <strong>PersonalAIs</strong> — a Spotify-powered music recommender using mood, emotion, and audio semantics<br>
-- 🔍 Working on a <strong>GitHub Issue Classifier</strong> — auto-categorizing repo issues by type and urgency using NLP<br>
-- 📚 Documenting my ML journey publicly — from foundations to deployment, every day on GitHub<br>
-- 🌐 Exploring LLMs, RAG pipelines, and embedding-based search<br><br>
+###
 
-Goal: ML Engineer role at a US company by mid-2027.
+<h3 align="left">🛠️ What I've Built</h3>
+
+###
+
+<p align="left">
+
+- <strong>PersonalAIs</strong> — Spotify-powered music recommender based on mood, emotion, and audio semantics. Generates personalised playlists from your listening data.<br>
+- <strong>GitHub Issue Classifier</strong> — NLP model that auto-categorizes repository issues by type and urgency.<br>
+- <strong>NLP & Sentiment Analysis</strong> — 8-week deep dive into sentiment analysis, culminating in an emotional arc visualization project.<br>
+
+</p>
+
+###
+
+<h3 align="left">🌱 Currently Learning</h3>
+
+###
+
+<p align="left">
+
+- LLMs, RAG pipelines, and embedding-based search<br>
+- PyTorch and production ML deployment<br>
+- ML system design for real-world applications<br>
+
 </p>
 
 ###
