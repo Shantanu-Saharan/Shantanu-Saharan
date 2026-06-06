@@ -2,21 +2,19 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="height: 250px;" />
 </div>
 
-
 ###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/shantanu-saharan-6a0424203/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="30" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="30" alt="linkedin logo" />
   </a>
   <a href="https://mail.google.com/mail/?view=cm&to=23b0383@iitb.ac.in" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="30" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="30" alt="gmail logo" />
   </a>
   <a href="https://discord.com/users/1269892676363227170" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="30" alt="discord logo"  />
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="30" alt="discord logo" />
   </a>
 </div>
-
 
 ###
 
@@ -24,11 +22,23 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻 About Me</h3>
 
 ###
 
-<p align="left">I'm an undergraduate student at the Indian Institute of Technology (IIT) Bombay. I'm passionate about building intelligent systems that solve real-world problems using AI/ML, NLP, and recommender systems.<br><br>Currently, I'm:<br><br>- Working on a GitHub classifier project that would be able to classify the issues raised in repositories into different categories and urgency, etc.<br>-  Built a full-stack project like PersonalAIs — a Spotify-powered music recommender based on mood, emotion, and audio semantics, and create a playlist of the recommended songs in your Spotify account.<br>-  Part of the Data Analysis and Visualization (DAV) team, where I build tools and dashboards to make sense of complex institutional data<br>-  Exploring LLMs, RAG pipelines, and embedding-based search</p>
+<p align="left">
+I'm a final year engineering student at IIT Bombay, building toward a career in ML Engineering. I'm passionate about building intelligent systems that solve real-world problems — currently focused on LLMs, NLP, and production ML pipelines.<br><br>
+
+Currently, I'm:<br><br>
+
+- 🚀 ML Engineer Intern at <strong>Inviz</strong> — building real ML systems at an early-stage AI company<br>
+- 🤖 Building <strong>PersonalAIs</strong> — a Spotify-powered music recommender using mood, emotion, and audio semantics<br>
+- 🔍 Working on a <strong>GitHub Issue Classifier</strong> — auto-categorizing repo issues by type and urgency using NLP<br>
+- 📚 Documenting my ML journey publicly — from foundations to deployment, every day on GitHub<br>
+- 🌐 Exploring LLMs, RAG pipelines, and embedding-based search<br><br>
+
+Goal: ML Engineer role at a US company by mid-2027.
+</p>
 
 ###
 
