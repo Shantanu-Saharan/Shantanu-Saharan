@@ -18,60 +18,47 @@
 
 ###
 
-<h1 align="center">Hi, I'm Shantanu Saharan! 👋</h1>
+<h1 align="center">Hi, I'm Shantanu Saharan!</h1>
 
 ###
 
 <h3 align="left">About Me</h3>
 
-###
-
 <p align="left">
 Final year engineering student at IIT Bombay. Passionate about building intelligent systems using ML, NLP, and LLMs. Currently interning as an ML Engineer and working toward a career in ML Engineering.<br><br>
-
 Currently: <strong>Machine Learning Engineer Intern @ Inviz</strong>
 </p>
 
 ###
 
-<h3 align="left">🛠️ What I've Built & Done</h3>
+<h3 align="left">What I've Built & Done</h3>
 
-###
+<h4 align="left">PersonalAIs — AI Music Recommender</h4>
+<p align="left">Conversational music recommender using Sentence Transformers, DistilBERT, and FAISS to match user mood with tracks. Spotify OAuth integration, FastAPI backend, under 500ms response time.</p>
 
-<p align="left">
+<h4 align="left">Anemia Prediction — Computer Vision Pipeline</h4>
+<p align="left">CV pipeline predicting anemia from palm, tongue, nail, and eye images. Used Random Forest, SVR, CNN, ResNet-50 with custom diagnostic features (erythema index, HSV transforms, GradCAM). R² = 0.60.</p>
 
-<strong>PersonalAIs — AI Music Recommender</strong><br>
-Conversational music recommender using Sentence Transformers, DistilBERT, and FAISS to match user mood with tracks. Spotify OAuth integration, FastAPI backend, under 500ms response time.<br><br>
+<h4 align="left">IITB FAQ Assistant — RAG System</h4>
+<p align="left">Built as part of the DAV team at IIT Bombay. RAG architecture using SBERT, DistilBERT, and ChromaDB to answer campus queries. Collaborated with IIT Bombay's IT infrastructure team.</p>
 
-<strong>Anemia Prediction — Computer Vision Pipeline</strong><br>
-CV pipeline predicting anemia from palm, tongue, nail, and eye images. Used Random Forest, SVR, CNN, ResNet-50 with custom diagnostic features (erythema index, HSV transforms, GradCAM). R² = 0.60.<br><br>
+<h4 align="left">Course Recommender — 6000+ Student Records</h4>
+<p align="left">Recommender system over 6,000+ student records and 500+ courses using Jaccard similarity. Generated 300+ personalized suggestions per user with sub-0.5s query latency.</p>
 
-<strong>IITB FAQ Assistant — RAG System</strong><br>
-Built as part of the DAV team at IIT Bombay. RAG architecture using SBERT, DistilBERT, and ChromaDB to answer campus queries. Collaborated with IIT Bombay's IT infrastructure team.<br><br>
+<h4 align="left">Mutual Fund Risk Modeling</h4>
+<p align="left">Analyzed 272+ daily NAV records, computed VaR at 95% and 99% confidence intervals, validated Gaussianity with Shapiro-Wilk, and recommended non-Gaussian models for tail-risk estimation.</p>
 
-<strong>Course Recommender — 6000+ Student Records</strong><br>
-Recommender system over 6,000+ student records and 500+ courses using Jaccard similarity. Generated 300+ personalized suggestions per user with sub-0.5s query latency.<br><br>
-
-<strong>Mutual Fund Risk Modeling</strong><br>
-Analyzed 272+ daily NAV records, computed VaR at 95% and 99% confidence intervals, validated Gaussianity with Shapiro-Wilk, and recommended non-Gaussian models for tail-risk estimation.<br><br>
-
-<strong>NLP Mentor — Summer of Code, IIT Bombay</strong><br>
-Mentored 11 students over 10+ weeks on NLP fundamentals (nltk, spaCy, scikit-learn). Designed capstone projects on sentiment analysis with VADER, TextBlob, and ML models.<br><br>
-
-</p>
+<h4 align="left">NLP Mentor — Summer of Code, IIT Bombay</h4>
+<p align="left">Mentored 11 students over 10+ weeks on NLP fundamentals (nltk, spaCy, scikit-learn). Designed capstone projects on sentiment analysis with VADER, TextBlob, and ML models.</p>
 
 ###
 
 <h3 align="left">Currently Learning</h3>
 
-###
-
 <p align="left">
-
 - LLMs, RAG pipelines, and embedding-based search<br>
 - PyTorch and production ML deployment<br>
 - ML system design for real-world applications<br>
-
 </p>
 
 ###
